@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native and Android**
 
-- 📫 How to reach me **anisha.dev**
+- 📫 How to reach me [anisha.dev](https://anisha.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
