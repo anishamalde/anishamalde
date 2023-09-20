@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@AmazonAppstore](https://developer.amazon.com/apps-and-games)
 
-- 🌱 I’m currently learning **React, React Native and Android**
+- 🌱 I’m currently working with **React and React Native**
 
 - 📫 How to reach me [anisha.dev](https://anisha.dev)
 
